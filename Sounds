@@ -433,3 +433,4 @@ geofs.aircraft.instance.definition.sounds[3].effects.volume.ratio = 30
 geofs.aircraft.instance.definition.sounds[7].effects.volume.ratio = 30
 geofs.aircraft.instance.definition.sounds[8].effects.volume.ratio = 30
 geofs.aircraft.instance.definition.sounds[9].effects.volume.ratio = 30
+geofs.aircraft.instance.definition.sounds[31].effects.volume.ratio = 0
